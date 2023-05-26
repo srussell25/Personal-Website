@@ -93,3 +93,6 @@ button:hover span{
 button:hover{
     border: none;
 }
+.center{
+text-align: center;
+}
